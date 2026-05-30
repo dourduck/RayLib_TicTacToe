@@ -1,2 +1,2 @@
 # Raylib Tic Tac Toe
-[preview.png]
+[![preview image](preview.png)]
